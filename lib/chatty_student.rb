@@ -1,6 +1,6 @@
 class ChattyStudent < Student
   
-  hello
+  def hello
   super
   
   
