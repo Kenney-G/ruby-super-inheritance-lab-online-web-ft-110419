@@ -10,7 +10,23 @@ class ChattyStudent < Student
       "Pick me!"
        super
        "Pick me!"
-       super
+       super       
+       "Pick me!"
+       super       
+       "Pick me!"
+       super       
+       "Pick me!"
+       super       
+       "Pick me!"
+       super       
+       "Pick me!"
+       super       
+       "Pick me!"
+       super       
+       "Pick me!"
+       super       
+       "Pick me!"
+
     end
 
 end
